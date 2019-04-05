@@ -126,3 +126,5 @@ bot.on('message', function (user, userID, channelID, message, evt) {
      }
 });
 
+client.login(process.env.2RjptFfRoci5jbkZCJzyg4JiiOz-CfQM);//BOT_TOKEN is the Client Secret
+
